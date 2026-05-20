@@ -1,0 +1,29 @@
+_wandb:
+    value:
+        cli_version: 0.27.0
+        e:
+            x4f0amiqhkncchk6ebagk3omrsw62vd8:
+                codePath: test_wandb.py
+                codePathLocal: test_wandb.py
+                email: pratyushshanbhag10@gmail.com
+                executable: /home/pratyush/miniconda3/envs/bev-seg/bin/python
+                git:
+                    commit: c7dd7c1cf2e67b91d1b364e42c82d0c96a07dcd7
+                    remote: https://github.com/Pratyush-Shanbhag/bev-seg-nuscenes.git
+                host: devil.path2life.ai
+                os: Linux-6.16.3-76061603-generic-x86_64-with-glibc2.35
+                program: /home/pratyush/bev-seg-nuscenes/test_wandb.py
+                python: CPython 3.10.20
+                root: /home/pratyush/bev-seg-nuscenes
+                startedAt: "2026-05-20T01:35:21.409906Z"
+                writerId: x4f0amiqhkncchk6ebagk3omrsw62vd8
+        m: []
+        python_version: 3.10.20
+        t:
+            "3":
+                - 2
+                - 13
+            "4": 3.10.20
+            "5": 0.27.0
+            "12": 0.27.0
+            "13": linux-x86_64

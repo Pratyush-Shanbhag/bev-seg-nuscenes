@@ -1,0 +1,17 @@
+{
+  "os": "Linux-6.16.3-76061603-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.20",
+  "startedAt": "2026-05-20T01:35:21.409906Z",
+  "program": "/home/pratyush/bev-seg-nuscenes/test_wandb.py",
+  "codePath": "test_wandb.py",
+  "codePathLocal": "test_wandb.py",
+  "git": {
+    "remote": "https://github.com/Pratyush-Shanbhag/bev-seg-nuscenes.git",
+    "commit": "c7dd7c1cf2e67b91d1b364e42c82d0c96a07dcd7"
+  },
+  "email": "pratyushshanbhag10@gmail.com",
+  "root": "/home/pratyush/bev-seg-nuscenes",
+  "host": "devil.path2life.ai",
+  "executable": "/home/pratyush/miniconda3/envs/bev-seg/bin/python",
+  "writerId": "x4f0amiqhkncchk6ebagk3omrsw62vd8"
+}
